@@ -1,2 +1,2 @@
 # Masterpieces
-An Oracle SQL database for a paintings retailers' business
+An Oracle SQL database for a painting business
